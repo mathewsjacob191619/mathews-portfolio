@@ -1311,7 +1311,7 @@ a:focus {
 }
 
 .contact .container-fluid {
-    background: url(/img/mathewsjacob.png) left center no-repeat;
+    background: url(../img/mathewsjacob.png) left center no-repeat;
     background-size: contain;
 }
 
